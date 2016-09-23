@@ -32,8 +32,7 @@ Options:
                                      configuration in ~/.config/youtube-
                                      dl/config (%APPDATA%/youtube-dl/config.txt
                                      on Windows)
-    --flat-playlist                  Do not extract the videos of a playlist,
-                                     only list them.
+    
 
   Network Options:
     --proxy URL                      Use the specified HTTP/HTTPS proxy. Pass in
